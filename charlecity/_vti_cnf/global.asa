@@ -1,0 +1,27 @@
+vti_encoding:SR|utf8-nl
+vti_author:SR|CHABLE-PC\\charl
+vti_modifiedby:SR|CHABLE-PC\\charl
+vti_timelastmodified:TR|05 May 2023 22:10:23 -0000
+vti_timecreated:TR|05 May 2023 21:15:57 -0000
+vti_extenderversion:SR|6.0.2.5516
+vti_backlinkinfo:VX|
+vti_excludefromtoc:SW|y
+vti_lastmodifiedbyproduct:SW|fp40
+vti_title:SR|Web Site Settings for Active Server Pages
+vti_nexttolasttimemodified:TR|05 May 2023 22:10:23 -0000
+vti_cacheddtm:TX|05 May 2023 22:10:23 -0000
+vti_filesize:IR|5074
+vti_cachedtitle:SR|Web Site Settings for Active Server Pages
+vti_cachedlinkinfo:VX|D|X-DATACONN:///C:/Users/charl/Documents/My\\ Web\\ Sites/charlecity/Database1/DRIVER={SQL\\ Server};SERVER=https://github.com/charliesh4rk/charlecity.git;DATABASE=https://github.com/charliesh4rk/charlecity.git;UID=charliesh4rk;PWD=nessieandsophie
+vti_cachedsvcrellinks:VX|NDUS|X-DATACONN:///C:/Users/charl/Documents/My\\ Web\\ Sites/charlecity/Database1/DRIVER={SQL\\ Server};SERVER=https://github.com/charliesh4rk/charlecity.git;DATABASE=https://github.com/charliesh4rk/charlecity.git;UID=charliesh4rk;PWD=nessieandsophie
+vti_cachedneedsrewrite:BR|false
+vti_cachedhasbots:BR|false
+vti_cachedhastheme:BR|false
+vti_cachedhasborder:BR|false
+vti_cacheddataconns:VR|Database1
+vti_cacheddataconnattrs_Database1:VR|_type=fp40 connectionstring=DRIVER={SQL\\ Server};SERVER=https://github.com/charliesh4rk/charlecity.git;DATABASE=https://github.com/charliesh4rk/charlecity.git;UID=charliesh4rk;PWD=nessieandsophie connectiontimeout=15 commandtimeout=30 cursorlocation=3 runtimeusername=charliesh4rk runtimepassword=nessieandsophie
+vti_error0:SX|The data connection 'Database1' uses a password. The file 'global.asa' that contains this password may be viewable by a Web browser, because the current Web does not support Active Server Pages.
+vti_error:IX|1
+vti_charset:SR|windows-1252
+connectionstatus:SW|Database1=2
+vti_cachedcustomprops:VX|connectionstatus
